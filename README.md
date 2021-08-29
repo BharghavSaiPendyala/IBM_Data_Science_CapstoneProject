@@ -4,3 +4,5 @@ SpaceX advertises Falcon 9 rocket launches on its website, with a cost of 62 mil
 
 
 # For the project documentation please refer to the BharghavIBMDataScienceCapstoneProject.pdf which is uploaded in the repo
+#                                                      OR
+<a href="https://github.com/BharghavSaiPendyala/IBM_Data_Science_CapstoneProject/blob/main/BharghavIBMDataScienceCapstoneProject.pdf" target="_blank">Click here</a>
